@@ -1,5 +1,5 @@
 export const profile = {
-  name: '김정현',
+  name: '祁月然',
   englishName: 'Jeonghyun Kim',
   degree: 'M.S. Student',
   title: 'HCI & Software Researcher',
