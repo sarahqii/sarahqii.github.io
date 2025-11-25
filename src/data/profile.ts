@@ -1,9 +1,9 @@
 export const profile = {
   name: '祁月然',
-  englishName: 'Jeonghyun Kim',
-  degree: 'M.S. Student',
+  englishName: 'Yueran (Sarah) Qi',
+  degree: 'B.A. Student',
   title: 'HCI & Software Researcher',
-  address: 'Daejeon, Republic of Korea',
+  address: 'Grinnell, Iowa, United States',
   about: [
     "Hello! I'm Jeonghyun Kim, a Master's student at the Interactive Computing Lab at KAIST, advised by Professor Uichin Lee. My research lies at the intersection of human-computer interaction (HCI) and digital well-being, with a focus on designing stress management systems that foster self-awareness.",
     "Currently, I'm working on a research project that explores how we can help people manage stress more effectively. My work involves creating systems that promote self-awareness by supporting both self-reflection and timely intervention, using diverse everyday data such as wearable sensing and mobile usage patterns.",
@@ -15,10 +15,10 @@ export const profile = {
     "With a background in software engineering and a passion for human-computer interaction (HCI), I aim to create user-centered technologies that support well-being in everyday life. I'm particularly interested in how thoughtful design can make digital systems more empathetic and supportive."
   ],
   social: {
-    email: 'jeonghyun.kim@kaist.ac.kr',
-    github: 'https://github.com/Jeonghyun109',
-    linkedin: 'https://linkedin.com/in/jeonghyun109',
-    scholar: 'https://scholar.google.com/citations?user=yourid&user=U4BoWB4AAAAJ'
+    email: 'qisarah@grinnell.edu',
+    github: 'https://github.com/sarahqii',
+    linkedin: 'https://www.linkedin.com/in/yueran-sarah-qi-05a4602a3/',
+    //scholar: 'https://scholar.google.com/citations?user=yourid&user=U4BoWB4AAAAJ'
   },
   researchInterests: {
     description: "My research focuses on designing and evaluating interactive systems that empower people in their daily lives, with a special interest in mental health and personalized computing.",
