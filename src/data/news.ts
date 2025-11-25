@@ -17,7 +17,7 @@ export const news: NewsItem[] = [
   {
     date: '2025.04',
     content: React.createElement(React.Fragment, null, 'Joined the ', 
-      React.createElement('a', { href: 'https://hci.kaist.ac.kr/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'Stat2Labs'), 
+      React.createElement('a', { href: 'https://stat2labs.sites.grinnell.edu/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'Stat2Labs'), 
       'as a student researcher 🤓'),
   },
   {
