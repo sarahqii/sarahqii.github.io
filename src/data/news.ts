@@ -6,33 +6,34 @@ export interface NewsItem {
 }
 
 export const news: NewsItem[] = [
-  {
+  /*{
     date: '2025.07',
     content: React.createElement(React.Fragment, null, 'Attended ', React.createElement('a', { href: 'https://koreavis.org/2025', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'K-VIS Conference'), ' in Pohang, Korea'),
   },
   {
     date: '2025.04',
     content: React.createElement(React.Fragment, null, 'Attended ', React.createElement('a', { href: 'https://chi2025.acm.org/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'CHI 2025'), ' in Yokohama, Japan ✈️'),
+  },*/
+  {
+    date: '2025.04',
+    content: React.createElement(React.Fragment, null, 'Joined the ', 
+      React.createElement('a', { href: 'https://hci.kaist.ac.kr/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'Stat2Labs'), 
+      'as a student researcher 🤓'),
   },
   {
-    date: '2025.01',
-    content: React.createElement(React.Fragment, null, 'Started to organize ', 
-      React.createElement('a', { href: 'https://hci.kaist.ac.kr/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'HCI@KAIST'), ' Social Meeting'),
+    date: '2025.04',
+    content: React.createElement(React.Fragment, null, 'Slected as a finalist team of ', React.createElement('a', { href: 'https://www.pi515.org/day-of-innovation/ai-challenge', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'Pi515 AI Challenge'), ' in Des Moines 🎉'),
   },
   {
-    date: '2024.07',
-    content: React.createElement(React.Fragment, null, 'Visited ', React.createElement('a', { href: 'https://2024summer.sigchi.kr/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'SIGCHI Korea Local Chapter Summer Event'), ' in Busan'),
+    date: '2024.05',
+    content: React.createElement(React.Fragment, null, 'Joined the ', React.createElement('a', { href: 'https://elbica.cs.grinnell.edu/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'ELBICA Lab' ), ' as a stundent researcher 🤓'),
   },
   {
-    date: '2024.07',
-    content: React.createElement(React.Fragment, null, 'Received a NRF grant for my master\'s research 🎉'),
+    date: '2024.01',
+    content: React.createElement(React.Fragment, null, 'Earned a dean\'s list for the fall semester of 2023 🎉'),
   },
   {
-    date: '2024.02',
-    content: React.createElement(React.Fragment, null, 'Started a Master\’s Degree in School of Computing from KAIST'),
-  },
-  {
-    date: '2024.02',
-    content: React.createElement(React.Fragment, null, 'Earned a Bachelor\’s Degree in School of Computing (Minor in Electrical Engineering) from KAIST'),
+    date: '2023.08',
+    content: React.createElement(React.Fragment, null, 'Began my undergraduate studies at Grinnell College, double majoring in Computer Science and Economics with a concentration in Statistics 🐿️'),
   },
 ];
