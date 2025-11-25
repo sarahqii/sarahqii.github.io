@@ -7,8 +7,8 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <link rel="icon" href="/profile.jpg" />
-        <title>Jeonghyun Kim</title>
-        <meta name="description" content="Jeonghyun Kim's personal website" />
+        <title>Yueran Sarah Qi</title>
+        <meta name="description" content="Sarah Qi's personal website" />
       </Head>
       <Component {...pageProps} />
     </>
