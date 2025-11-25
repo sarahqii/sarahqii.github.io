@@ -61,11 +61,11 @@ export default function NewsList({ items, initialCount = 5 }: NewsListProps) {
         >
           {isExpanded ? (
             <>
-              Show Less <span aria-hidden="true">↑</span>
+              Show Recent<span aria-hidden="true"></span>
             </>
           ) : (
             <>
-              Show More <span aria-hidden="true">↓</span>
+              Show All<span aria-hidden="true"></span>
             </>
           )}
         </button>
