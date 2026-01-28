@@ -20,7 +20,7 @@ export interface PublicationItem {
 }
 
 export const publications: PublicationItem[] = [
-  {
+  /*{
     title: 'Affectstream: Kafka‑Based Real‑Time Affect Monitoring System Using Wearable Sensors',
     authors: [
       { name: 'Jeonghyun Kim', isBold: true, isUnderline: true },
@@ -52,7 +52,7 @@ export const publications: PublicationItem[] = [
     links: [
       { label: 'PDF', url: '/papers/HateBuffer_cscw.pdf' },
     ],
-  },
+  },*/
   // {
   //   title: '~~~',
   //   authors: React.createElement(
