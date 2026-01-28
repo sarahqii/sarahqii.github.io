@@ -9,11 +9,11 @@ export const news: NewsItem[] = [
   /*{
     date: '2025.07',
     content: React.createElement(React.Fragment, null, 'Attended ', React.createElement('a', { href: 'https://koreavis.org/2025', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'K-VIS Conference'), ' in Pohang, Korea'),
-  },
-  {
-    date: '2025.04',
-    content: React.createElement(React.Fragment, null, 'Attended ', React.createElement('a', { href: 'https://chi2025.acm.org/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'CHI 2025'), ' in Yokohama, Japan ✈️'),
   },*/
+  {
+    date: '2025.11',
+    content: React.createElement(React.Fragment, null, 'Joined ', React.createElement('a', { href: 'https://pi.cs.tsinghua.edu.cn/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'PI Lab'), ' as a research intern 🤓'),
+  },
   {
     date: '2025.04',
     content: React.createElement(React.Fragment, null, 'Joined the ', 
