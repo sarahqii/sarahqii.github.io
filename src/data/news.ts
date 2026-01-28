@@ -12,7 +12,11 @@ export const news: NewsItem[] = [
   },*/
   {
     date: '2025.11',
-    content: React.createElement(React.Fragment, null, 'Joined ', React.createElement('a', { href: 'https://pi.cs.tsinghua.edu.cn/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'PI Lab'), ' as a research intern 🤓'),
+    content: React.createElement(React.Fragment, null, 'Joined the ', React.createElement('a', { href: 'https://pi.cs.tsinghua.edu.cn/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'PI Lab'), ' as a research intern 🤓'),
+  },
+  {
+    date: '2025.07',
+    content: React.createElement(React.Fragment, null, 'Participated in the 2025 ', React.createElement('a', { href: 'https://gamemakerstoolkit.com/jam/', className: 'hover:text-blue-600 hover:underline', target: '_blank', rel: 'noopener noreferrer' }, 'GMTK Game Jam'), ' 🎮'),
   },
   {
     date: '2025.04',
@@ -30,7 +34,7 @@ export const news: NewsItem[] = [
   },
   {
     date: '2024.01',
-    content: React.createElement(React.Fragment, null, 'Earned a dean\'s list for the fall semester of 2023 🎉'),
+    content: React.createElement(React.Fragment, null, 'Earned a Dean\'s List honor for the fall semester of 2023 🎉'),
   },
   {
     date: '2023.08',
